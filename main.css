@@ -1,0 +1,82 @@
+nav{ background-color: #E5E5E5; 
+	position: relative;
+	padding-top: 10px;
+	padding-bottom:10px;
+	margin-bottom:50px ;
+}
+
+
+h1{display: inline-block;
+	font-family: 'Prompt', sans-serif;
+	padding-left: 20px;
+}
+.navList{list-style:none ;
+display: inline-block;
+left: 100px;
+float:right;
+}
+.navListItem{
+display: inline-block;
+	padding-right: 10px;
+	color: purple;
+	font-size:27px;
+	font-family: 'Prompt', sans-serif;
+	}
+
+.search{
+	margin-top: 100px
+	height:100px;
+	
+	display: relative;
+	margin-left:500px;
+
+display:  inline-block;
+}
+input{
+	font-size: 30px;
+	height:30px;
+width:600px;
+left: 200px;
+font-family: 'Prompt', sans-serif;
+}
+.fa-search{border:3px solid #E5E5E5;
+border-radius:5px;
+margin-left: 10px;
+}
+
+.results{
+	margin-top: 50px;
+	width:600px;
+	
+	margin-left:500px;
+}
+.box{
+	border:3px solid #e5e5e5;
+	font-size:27px;
+	padding: 2px;
+font-family: 'Prompt', sans-serif;
+}
+.selList{
+	list-style:none;
+	margin-top: 50px;
+	width:800px;
+	margin-left:500px;
+	display:block;
+	padding-left: 0px;
+}
+.fa-star{
+	color: black;
+}
+.fa-star:hover{
+	color:yellow;
+}
+
+.option{
+	font-family: 'Prompt', sans-serif;
+	color: #E5E5E5;
+	font-size: 27px;
+}
+.blue{
+	color:blue;
+}
+.selit{display:block;}
